@@ -12,7 +12,7 @@ A full-stack proof of concept demonstrating HubSpot CRM integration with an AI-p
 4. [HubSpot Data Architecture](#hubspot-data-architecture)
 5. [AI Feature Explanation](#ai-feature-explanation)
 6. [Design Decisions](#design-decisions)
-7. [Testing the Integration](#testing-the-integration)
+
 
 ---
 
